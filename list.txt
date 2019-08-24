@@ -1,0 +1,5 @@
+Elixir Install How To www.youtube.com/video/GSpdBi6ow2E #elixir #programming #development
+Binding An Orange R615x To A Spektrum DX5e www.youtube.com/video/Er0GeSj0cNw #RC #R615x #DX5e #Spektrum
+Python Stack How-To www.youtube.com/video/BwCeGUEn1M8 #python #stack #programming #development
+GoPro Studio Install Windows 10 www.youtube.com/video/DCgFq_foiXQ #gopro #goprostudio
+Raspberry Pi Raspian Startup www.youtube.com/video/kLuGU77U4EA #python #RaspberryPi #pi #raspian
